@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:appNs="http://schemas.android.com/apk/res-auto"
+    tools:context=".Game">
+    <item android:id="@+id/reset_menu" android:icon="@drawable/ic_repeat" android:title="@string/reset"
+        android:orderInCategory="100" appNs:showAsAction="ifRoom" />
+
+</menu>

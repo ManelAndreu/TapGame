@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tap!</string>
+    <string name="best_value">Best score:</string>
+    <string name="num_value">Your score:</string>
+    <string name="reset">Try again</string>
+    <string name="question">How many times can you tap de button?</string>
+    <string name="whats_1">I\'ve played to Tap! My score is</string>
+    <string name="whats_2">. Try to beat me contacting with Manel Andreu!</string>
+    <string name="whats">Share it to WhatsApp!</string>
+    <string name="intro1">Algunes de les cançons emprades en aquest joc no són originals del mateix. En tot moment es diu el títol i l\'autor de les cançons, i es compleixen els requisits dels autors per a ser difoses a aquest joc.</string>
+    <string name="intro2">Aquest joc pot contenir elements que podrien danyar la teva salut si ets epilèptic. De ser aquest el cas, pots desactivar el mode flaix a les opcions del joc.</string>
+    <string name="intro4">Creat per Manel Andreu.</string>
+    <string name="intro3">Per gaudir completament de l\'experiència del joc, es recomana jugar amb auriculars.</string>
+    <string name="advice">Hauries de saber que...</string>
+    <string name="tapMsg">Està sonant: </string>
+    <string name="begin">Comença</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
